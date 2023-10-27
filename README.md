@@ -39,7 +39,7 @@ This portfolio will present technologies and tools which I am familiar with and 
 
 ### Personal/College Projects
 #### Project 1 - Loan Default dataset
-- **Data Sources** [KaggleDataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default)
+- **Data Sources** [KaggleDataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default) , this is a high quality dataset from kaggle, featuring approx 250k rows. It contains info about customers and whether they defaulted on their loans or not. This data has a 10.0 usability score on Kaggle.
 - **Data Preprocessing**
 - **Data Visualizations**
 - **Exploratory Data Analysis**
