@@ -33,8 +33,9 @@ This portfolio will present technologies and tools which I am familiar with and 
 - [Tool/Technique 2](#)
 
 ### Technologies
-- [Technology 1](#) + Description / Relevance
-- [Technology 2](#) + Description / Relevance
+- Programming: (#) + Description / Relevance
+- Data Manipulation: (#) + Description / Relevance
+- Machine Learning: (#) + Description / Relevance
 
 ### Personal/College Projects
 - [Project1](#)
