@@ -48,6 +48,10 @@ Below is the df.dropduplicates() command being used to drop any duplicate rows(D
 After doing this basic preprocessing, the dataset needed to be balanced, the main factor in this dataset is whether or not a loan was defaulted on
 (0 is non defaulted 1 is defaulted) The initial imbalance is represented in this bar chart diagram
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/initialimbalance.png alt="initialimbalance" width="800" height="350"/>
+SMOTE was chosen to create synthetic data which would have a default value of 1(defaulted on a loan), SMOTE works on numerical values only so a conversion was done to temporarily turn certain columns into number classificiation.
+
+
+
 
 - **Data Visualizations**
 - **Exploratory Data Analysis**
