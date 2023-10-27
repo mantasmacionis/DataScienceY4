@@ -49,6 +49,10 @@ After doing this basic preprocessing, the dataset needed to be balanced, the mai
 (0 is non defaulted 1 is defaulted) The initial imbalance is represented in this bar chart diagram
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/initialimbalance.png alt="initialimbalance" width="800" height="350"/>
 SMOTE was chosen to create synthetic data which would have a default value of 1(defaulted on a loan), SMOTE works on numerical values only so a conversion was done to temporarily turn certain columns into number classificiation.
+Below is an image of the main columns which contain String data before conversion to numbers
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/beforenumerical.png alt="beforenumerical" width="600" height="300"/>
+Below is an image of the main columns which contain String data after conversion to numbers
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/afternumerical.png alt="beforenumerical" width="600" height="300"/>
 
 
 
