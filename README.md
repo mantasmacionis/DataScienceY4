@@ -38,8 +38,8 @@ This portfolio will present technologies and tools which I am familiar with and 
 - Machine Learning: sklearn, SMOTE
 
 ### Personal/College Projects
-#### Project 1
-- **Data Sources**
+#### Project 1 - Loan Default dataset
+- **Data Sources** [KaggleDataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default)
 - **Data Preprocessing**
 - **Data Visualizations**
 - **Exploratory Data Analysis**
