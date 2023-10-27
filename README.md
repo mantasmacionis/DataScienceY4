@@ -12,8 +12,6 @@
   - [Data Sets](#data-sets)
   - [Tools/Techniques](#tools-and-techniques)
   - [Technologies](#technologies)
-  - [Regulations](#regulations)
-  - [GDRP](#gdrp)
   - [Personal/College Projects](#personalcollege-projects)
   - [Professional Projects](#professional-projects)
 - [Opportunities & Challenges](#opportunities-and-challenges)
@@ -37,14 +35,6 @@ This portfolio will present technologies and tools which I am familiar with and 
 ### Technologies
 - [Technology 1](#) + Description / Relevance
 - [Technology 2](#) + Description / Relevance
-
-### Regulations
-- [Regulation 1](#)
-- [Regulation 2](#)
-
-### GDPR
-- [GDPR 1](#)
-- [GDPR 2](#)
 
 ### Personal/College Projects
 - [Project1](#)
