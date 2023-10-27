@@ -47,7 +47,7 @@ Below is the df.dropduplicates() command being used to drop any duplicate rows(D
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/dropduplicates.png alt="df.dropduplicates()" width="800" height="300"/>
 After doing this basic preprocessing, the dataset needed to be balanced, the main factor in this dataset is whether or not a loan was defaulted on
 (0 is non defaulted 1 is defaulted) The initial imbalance is represented in this bar chart diagram
-<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/initialimbalance.png alt="initialimbalance" width="800" height="300"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/initialimbalance.png alt="initialimbalance" width="800" height="350"/>
 
 - **Data Visualizations**
 - **Exploratory Data Analysis**
