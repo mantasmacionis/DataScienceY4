@@ -43,7 +43,8 @@ This portfolio will present technologies and tools which I am familiar with and 
 - **Data Preprocessing** The dataset appeared to be high quality with no obivous missing data or errors. To confirm this the pandas library was utilised.  
 Below is the df.isna() command being utilised to confirm that the database contains no Null or void values
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png alt="df.isna()" width="800" height="300"/>
-
+Below is the df.dropduplicates() command being used to drop any duplicate rows
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/dropduplicates.png alt="df.dropduplicates()" width="800" height="300"/>
 - **Data Visualizations**
 - **Exploratory Data Analysis**
 - **Sources**
