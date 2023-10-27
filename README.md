@@ -52,7 +52,7 @@ SMOTE was chosen to create synthetic data which would have a default value of 1(
 
   Below is a sample image of the main columns which contain String data before conversion to numbers
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/beforenumerical.png alt="beforenumerical" width="900" height="300"/>
-Below is a sample image of the main columns which contain String data after conversion to numbers
+  Below is a sample image of the main columns which contain String data after conversion to numbers
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/afternumerical.png alt="beforenumerical" width="900" height="225"/>
 
 
