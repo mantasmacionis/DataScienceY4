@@ -38,7 +38,13 @@ This portfolio will present technologies and tools which I am familiar with and 
 - Machine Learning: sklearn, SMOTE
 
 ### Personal/College Projects
-- [Project1](#)
+#### Project 1
+- **Data Sources**
+- **Data Preprocessing**
+- **Data Visualizations**
+- **Exploratory Data Analysis**
+- **Sources**
+- **Tools & Techniques**
 
 ### Professional Projects
 - [Project1](#)
