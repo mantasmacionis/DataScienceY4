@@ -33,7 +33,7 @@ This portfolio will present technologies and tools which I am familiar with and 
 - [Tool/Technique 2](#)
 
 ### Technologies
-- Programming:Python, Jupyter Notebooks
+- Programming: Python, Jupyter Notebooks
 - Data Manipulation: Pandas, MatPlotlib, Seaborn
 - Machine Learning: sklearn, SMOTE
 
