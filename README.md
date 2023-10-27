@@ -33,9 +33,9 @@ This portfolio will present technologies and tools which I am familiar with and 
 - [Tool/Technique 2](#)
 
 ### Technologies
-- Programming: (#) + Description / Relevance
-- Data Manipulation: (#) + Description / Relevance
-- Machine Learning: (#) + Description / Relevance
+- Programming:Python, Jupyter Notebooks
+- Data Manipulation: Pandas, MatPlotlib, Seaborn
+- Machine Learning: sklearn, SMOTE
 
 ### Personal/College Projects
 - [Project1](#)
