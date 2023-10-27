@@ -42,7 +42,7 @@ This portfolio will present technologies and tools which I am familiar with and 
 - **Data Sources** - [KaggleDataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default) , this is a high quality dataset from kaggle, featuring approx 250k rows. It contains info about customers and whether they defaulted on their loans or not. This data has a 10.0 usability score on Kaggle. Meaning it is well presented and will likely need minimal Preprocessing
 - **Data Preprocessing** The dataset appeared to be high quality with no obivous missing data or errors. To confirm this the pandas library was utilised.
 ![df.isna() usage](https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png)
-<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png alt="df.isna()" width="300" height="300"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png alt="df.isna()" width="800" height="300"/>
 - **Data Visualizations**
 - **Exploratory Data Analysis**
 - **Sources**
