@@ -12,8 +12,7 @@
   - [Data Sets](#data-sets)
   - [Tools/Techniques](#tools-and-techniques)
   - [Technologies](#technologies)
-  - [Personal/College Projects](#personalcollege-projects)
-    - [Project1](#[Project1])   
+  - [Personal/College Projects](#personalcollege-projects)  
   - [Professional Projects](#professional-projects)
 - [Opportunities & Challenges](#opportunities-and-challenges)
 
