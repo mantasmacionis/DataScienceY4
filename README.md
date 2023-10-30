@@ -94,7 +94,7 @@ ML generated stats put into a barchart, to predict the numerical columns which a
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/factorbarchart.png alt="factorbarchart" width="900" height="350"/>
 
 Averages for the whole dataset - after SMOTE has been applied
-<img src= alt="datasetaverages" width="900" height="450"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/datasetaverages.png alt="datasetaverages" width="900" height="450"/>
 
 - **Sources**
 - **Tools & Techniques**
