@@ -54,7 +54,7 @@ SMOTE was chosen to create synthetic data which would have a default value of 1(
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/beforenumerical.png alt="beforenumerical" width="900" height="300"/>  
   Below is a sample image of the main columns which contain String data after conversion to numbers
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/afternumerical.png alt="afternumerical" width="900" height="225"/>
-  After SMOTE was applied to the dataset, columns were set back to their original wording.
+    After SMOTE was applied to the dataset, columns were set back to their original wording.
   <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/SMOTEtail.png alt="SMOTEtail" width="900" height="225"/>
 
 
