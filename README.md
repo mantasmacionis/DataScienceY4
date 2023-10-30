@@ -97,6 +97,9 @@ Averages for the whole dataset - after SMOTE has been applied
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/datasetaverages.png alt="datasetaverages" width="900" height="450"/>
 
 - **Sources**
+- Kaggle Dataset used: https://www.kaggle.com/datasets/nikhil1e9/loan-default
+
+
 - **Tools & Techniques**
 
 ### Professional Projects
