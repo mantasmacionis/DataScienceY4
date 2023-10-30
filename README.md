@@ -62,6 +62,11 @@ SMOTE was chosen to create synthetic data which would have a default value of 1(
 
 
 - **Data Visualizations**
+Visualisations after SMOTE has been applied to the dataset:
+Age Distribution of individuals included in the dataset
+
+
+
 - **Exploratory Data Analysis**
 - **Sources**
 - **Tools & Techniques**
