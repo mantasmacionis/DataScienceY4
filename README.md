@@ -88,7 +88,10 @@ Education level of Defaulters
 - **Exploratory Data Analysis**
 
 Using a machine learning model to on the dataset - stats after application shown below 
-<img src= alt="mlstatistics" width="900" height="350"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/mlstatistics.png alt="mlstatistics" width="900" height="350"/>
+
+ML generated stats put into a barchart, to predict the numerical columns which are the largest factors in default probability
+<img src= alt="factorbarchart" width="900" height="350"/>
 
 
 - **Sources**
