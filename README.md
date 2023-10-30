@@ -76,7 +76,10 @@ Average loan size taken by defaulters versus non defaulters
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/loanamountstaken.png alt="loanamountstaken" width="900" height="225"/>
 
 Education level of Non-Defaulters 
-<img src= alt="nondefaulteducation" width="900" height="225"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nondefaulteducation.png alt="nondefaulteducation" width="900" height="225"/>
+
+Education level of Defaulters 
+<img src= alt="defaulteducation" width="900" height="225"/>
 
 
 
