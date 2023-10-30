@@ -70,8 +70,10 @@ Income Box Plot for the dataset
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/incomeboxplot.png alt="incomeboxplot" width="900" height="225"/>
 
 Education Level Bar Chart
-<img src=![image](https://github.com/mantasmacionis/DataScienceY4/assets/73352288/e0696630-8b29-4e24-89d7-09fe45bc0a4e)
- alt="incomeboxplot" width="900" height="225"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/educationlevelbarchart.png alt="educationlevelbarchart" width="900" height="225"/>
+
+Average loan size taken by defaulters versus non defaulters
+<img src= alt="incomeboxplot" width="900" height="225"/>
 
 
 
