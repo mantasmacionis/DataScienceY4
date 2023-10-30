@@ -62,7 +62,8 @@ SMOTE was chosen to create synthetic data which would have a default value of 1(
 
 
 - **Data Visualizations**
-Visualisations after SMOTE has been applied to the dataset:
+  
+This section includes visualisations created after the dataset has been balanced by using SMOTE.
 Age Distribution of individuals included in the dataset
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/agedistribution.png alt="agedistribution" width="900" height="350"/>
 
@@ -85,6 +86,11 @@ Education level of Defaulters
 
 
 - **Exploratory Data Analysis**
+
+Using a machine learning model to on the dataset - stats after application shown below 
+<img src= alt="mlstatistics" width="900" height="350"/>
+
+
 - **Sources**
 - **Tools & Techniques**
 
