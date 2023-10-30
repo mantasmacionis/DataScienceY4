@@ -73,7 +73,10 @@ Education Level Bar Chart
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/educationlevelbarchart.png alt="educationlevelbarchart" width="900" height="225"/>
 
 Average loan size taken by defaulters versus non defaulters
-<img src= alt="incomeboxplot" width="900" height="225"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/loanamountstaken.png alt="loanamountstaken" width="900" height="225"/>
+
+Education level of Non-Defaulters 
+<img src= alt="nondefaulteducation" width="900" height="225"/>
 
 
 
