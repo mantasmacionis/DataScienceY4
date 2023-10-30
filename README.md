@@ -79,7 +79,7 @@ Education level of Non-Defaulters
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nondefaulteducation.png alt="nondefaulteducation" width="900" height="225"/>
 
 Education level of Defaulters 
-<img src= alt="defaulteducation" width="900" height="225"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/defaulteducation.png alt="defaulteducation" width="900" height="225"/>
 
 
 
