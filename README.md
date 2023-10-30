@@ -98,8 +98,11 @@ Averages for the whole dataset - after SMOTE has been applied
 
 - **Sources**
   Kaggle Dataset used: https://www.kaggle.com/datasets/nikhil1e9/loan-default
+  
   Data Cleaning with pandas: https://nbviewer.org/github/Tanu-N-Prabhu/Python/blob/master/Data_Cleaning/Data_Cleaning_using_Python_with_Pandas_Library.ipynb
+  
   Overplotting: https://anaconda.org/jbednar/plotting_pitfalls/notebook
+  
   
 - **Tools & Techniques**
   The main tools & Techniques utilised in this project include:
