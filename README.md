@@ -106,11 +106,17 @@ Averages for the whole dataset - after SMOTE has been applied
   
 - **Tools & Techniques**
   The main tools & Techniques utilised in this project include:
+  
   Jupyter notebooks - used to create functionality
+  
   Pandas Library - used for data pre processing and for chart creation
+  
   sklearn - used for the Machine Learning algorithm applied to the dataset
+  
   MatPlotLib - used for visualizations
+  
   SMOTE - used for balancing of the dataset
+  
 
 ### Professional Projects
 - [Project1](#)
