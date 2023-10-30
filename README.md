@@ -13,7 +13,7 @@
   - [Tools/Techniques](#tools-and-techniques)
   - [Technologies](#technologies)
   - [Personal/College Projects](#personalcollege-projects)
-    - [Project1](#Project1)   
+    - [Project1](#[Project1])   
   - [Professional Projects](#professional-projects)
 - [Opportunities & Challenges](#opportunities-and-challenges)
 
