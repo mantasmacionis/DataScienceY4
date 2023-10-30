@@ -97,10 +97,17 @@ Averages for the whole dataset - after SMOTE has been applied
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/datasetaverages.png alt="datasetaverages" width="900" height="450"/>
 
 - **Sources**
-- Kaggle Dataset used: https://www.kaggle.com/datasets/nikhil1e9/loan-default
-
-
+  Kaggle Dataset used: https://www.kaggle.com/datasets/nikhil1e9/loan-default
+  Data Cleaning with pandas: https://nbviewer.org/github/Tanu-N-Prabhu/Python/blob/master/Data_Cleaning/Data_Cleaning_using_Python_with_Pandas_Library.ipynb
+  Overplotting: https://anaconda.org/jbednar/plotting_pitfalls/notebook
+  
 - **Tools & Techniques**
+  The main tools & Techniques utilised in this project include:
+  Jupyter notebooks - used to create functionality
+  Pandas Library - used for data pre processing and for chart creation
+  sklearn - used for the Machine Learning algorithm applied to the dataset
+  MatPlotLib - used for visualizations
+  SMOTE - used for balancing of the dataset
 
 ### Professional Projects
 - [Project1](#)
