@@ -93,6 +93,8 @@ Using a machine learning model to on the dataset - stats after application shown
 ML generated stats put into a barchart, to predict the numerical columns which are the largest factors in default probability
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/factorbarchart.png alt="factorbarchart" width="900" height="350"/>
 
+Averages for the whole dataset - after SMOTE has been applied
+<img src= alt="datasetaverages" width="900" height="450"/>
 
 - **Sources**
 - **Tools & Techniques**
