@@ -64,6 +64,10 @@ SMOTE was chosen to create synthetic data which would have a default value of 1(
 - **Data Visualizations**
 Visualisations after SMOTE has been applied to the dataset:
 Age Distribution of individuals included in the dataset
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/agedistribution.png alt="agedistribution" width="900" height="225"/>
+
+Income Box Plot for the dataset
+<img src= alt="incomeboxplot" width="900" height="225"/>
 
 
 
