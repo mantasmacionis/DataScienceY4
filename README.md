@@ -40,7 +40,7 @@ This portfolio will present technologies and tools which I am familiar with and 
 ### Personal/College Projects
 #### Project 1 - Loan Default dataset
 - **Data Sources** - [KaggleDataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default) , this is a high quality dataset from kaggle, featuring approx 250k rows. It contains info about customers and whether they defaulted on their loans or not. This data has a 10.0 usability score on Kaggle. Meaning it is well presented and will likely need minimal Preprocessing
-- **Data Preprocessing** The dataset appeared to be high quality with no obivous missing data or errors. To confirm this the pandas library was utilised.  
+- **Data Preprocessing** The dataset appeared to be high quality with no obvious missing data or errors. To confirm this the pandas library was utilised.  
 Below is the df.isna() command being utilised to confirm that the database contains no Null or void values
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png alt="df.isna()" width="800" height="300"/>
 Below is the df.dropduplicates() command being used to drop any duplicate rows(Dataset remains the same as there are no duplicates)
