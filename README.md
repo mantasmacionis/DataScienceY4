@@ -104,7 +104,7 @@ Averages for the whole dataset - after SMOTE has been applied
 - **Tools & Techniques**
   The main tools & Techniques utilised in this project include:
   
-  Jupyter notebooks - used to create functionality
+  [Jupyter notebooks](https://jupyter.org/){:target="_blank"} - used to create functionality
   
   Pandas Library - used for data pre processing and for chart creation
   
