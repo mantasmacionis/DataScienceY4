@@ -60,7 +60,9 @@ This portfolio will present technologies and tools which I am familiar with and 
 16. HasCoSigner: Whether the individual has a cosigner(yes/no)
 17. Default: Whether the individual has defaulted on their loan(0-no/1-yes)
   
-- **Data Preprocessing** The dataset appeared to be high quality with no obvious missing data or errors. To confirm this the pandas library was utilised.  
+## Data Preprocessing 
+The dataset appeared to be high quality with no obvious missing data or errors. To confirm this the pandas library was utilised.  
+
 Below is the df.isna() command being utilised to confirm that the database contains no Null or void values
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png alt="df.isna()" width="800" height="300"/>
 Below is the df.dropduplicates() command being used to drop any duplicate rows(Dataset remains the same as there are no duplicates)
