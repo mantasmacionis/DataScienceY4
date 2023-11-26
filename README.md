@@ -25,7 +25,7 @@ This portfolio will present technologies and tools which I am familiar with and 
 ## Content
 
 ### Data Sets
-- [Loan Default Dataset](https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/finaldataset.zip)(Download The dataset)
+- [Loan Default Dataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default)
 - [Example Data Set2](#)
 
 ### Tools/Techniques
