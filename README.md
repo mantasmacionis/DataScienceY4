@@ -25,7 +25,7 @@ This portfolio will present technologies and tools which I am familiar with and 
 ## Content
 
 ### Data Sets
-- [Loan Default Dataset](https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/finaldataset.zip)
+- [Loan Default Dataset](https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/finaldataset.zip)(Download The dataset)
 - [Example Data Set2](#)
 
 ### Tools/Techniques
@@ -40,6 +40,25 @@ This portfolio will present technologies and tools which I am familiar with and 
 ### Personal/College Projects
 #### Project 1 - Loan Default dataset
 - **Data Sources** - [KaggleDataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default) , this is a high quality dataset from kaggle, featuring approx 250k rows. It contains info about customers and whether they defaulted on their loans or not. This data has a 10.0 usability score on Kaggle. Meaning it is well presented and will likely need minimal Preprocessing
+**Dataset Details:**
+1. Age: Age of the Individual
+2. Income: The individuals yearly income($)
+3. LoanAmount: The size of the loan the inidividual has gotten($)
+4. CreditScore: The credit score the inidividual has
+5. MonthsEmployed: The number of months the individual has been consistently employed
+6. NumCreditLines: The amount of credit lines an individual has available
+7. InterestRate: The interest rate given to the individual on their loan(%)
+8. LoanTerm: Length of the loan(months)
+9. DTIRatio: Debt to income ratio of this individual
+10. Education: The highest level of education this individual has achieved
+11. EmploymentType: The employment category which best suits this individual
+12. MaritalStatus: Marital status of the individual
+13. HasMortgage: Whether the individual has a mortgage (yes/no)
+14. HasDependants: Whether the individual has dependants or not(yes/no)
+15. LoanPurpose: Reason the loan is being taken
+16. HasCoSigner: Whether the individual has a cosigner(yes/no)
+17. Default: Whether the individual has defaulted on their loan(0-no/1-yes)
+  
 - **Data Preprocessing** The dataset appeared to be high quality with no obvious missing data or errors. To confirm this the pandas library was utilised.  
 Below is the df.isna() command being utilised to confirm that the database contains no Null or void values
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png alt="df.isna()" width="800" height="300"/>
