@@ -44,19 +44,19 @@ This portfolio will present technologies and tools which I am familiar with and 
 **Dataset Details:**
 1. Age: Age of the Individual
 2. Income: The individuals yearly income($)
-3. LoanAmount: The size of the loan the inidividual has gotten($)
-4. CreditScore: The credit score the inidividual has
+3. LoanAmount: The size of the loan the individual has gotten($)
+4. CreditScore: credit score of the individual
 5. MonthsEmployed: The number of months the individual has been consistently employed
 6. NumCreditLines: The amount of credit lines an individual has available
 7. InterestRate: The interest rate given to the individual on their loan(%)
 8. LoanTerm: Length of the loan(months)
 9. DTIRatio: Debt to income ratio of this individual
-10. Education: The highest level of education this individual has achieved
-11. EmploymentType: The employment category which best suits this individual
-12. MaritalStatus: Marital status of the individual
+10. Education: The highest level of education this individual has achieved(PhD,Master's,Bacherlor's,High School)
+11. EmploymentType: The employment category which best suits this individual(Full-Time,Part-Time,Self-Employed,Unemployed)
+12. MaritalStatus: Marital status of the individual(Single,Married,Divorced)
 13. HasMortgage: Whether the individual has a mortgage (yes/no)
 14. HasDependants: Whether the individual has dependants or not(yes/no)
-15. LoanPurpose: Reason the loan is being taken
+15. LoanPurpose: Reason the loan is being taken(Home,Auto,Business,Education or other)
 16. HasCoSigner: Whether the individual has a cosigner(yes/no)
 17. Default: Whether the individual has defaulted on their loan(0-no/1-yes)
   
