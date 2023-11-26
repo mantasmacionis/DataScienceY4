@@ -107,6 +107,8 @@ Averages for the whole dataset - after SMOTE has been applied
   [Jupyter notebooks](https://jupyter.org/) - used to create functionality
   
   <a href="https://jupyter.org/" target="_blank">Jupyter notebooks</a> - used to create functionality
+
+  [Jupyter notebooks](https://jupyter.org/){:onclick="window.open(this.href, '_blank'); return false;"}
   
   Pandas Library - used for data pre processing and for chart creation
   
