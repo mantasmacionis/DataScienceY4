@@ -156,7 +156,9 @@ Averages for the whole dataset - after SMOTE has been applied
   [MatPlotLib](https://matplotlib.org/) - used for visualizations
   
   [SMOTE](https://imbalanced-learn.org/stable/over_sampling.html) - used for balancing of the dataset
-  
+
+#### Project 2 - Random Forests
+- **Data Sources** - [JupyterNotebook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) , This project is based on the linked Jupyter notebook.
 
 ### Professional Projects
 - [Project1](#)
