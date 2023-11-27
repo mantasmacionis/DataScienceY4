@@ -61,10 +61,10 @@ This portfolio will present technologies and tools which I am familiar with and 
 17. Default: Whether the individual has defaulted on their loan(0-no/1-yes)
   
 ## Data Preprocessing 
-The following section covers pre processing the data to prepare it for future sections, which will include data visualisations and exploratory data analysis.
-Upon initial inspection this dataset appeared to be high quality with no obious issues such as missing data or odd variables. 
-To confirm whether the data needed pre processing the panda's library was utilised.
-The data was checked for key aspects such as Null or void values and duplicate values. 
+- The following section covers pre processing the data to prepare it for future sections, which will include data visualisations and exploratory data analysis.
+- Upon initial inspection this dataset appeared to be high quality with no obious issues such as missing data or odd variables. 
+- To confirm whether the data needed pre processing the panda's library was utilised.
+- The data was checked for key aspects such as Null or void values and duplicate values. 
 
 Below is the df.isna() command being utilised to confirm that the database contains no Null or void values
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png alt="df.isna()" width="800" height="300"/>
