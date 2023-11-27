@@ -124,11 +124,13 @@ Education level of Defaulters
 
 
 ## Exploratory Data Analysis
+- The following section will cover Machine learning and statistics for the final balanced dataset.
+- The sklearn library was utilised for the representations below and the model chosen was the Random Forest Classifier
 
-Using a machine learning model on the dataset - stats after application shown below 
+After applying the RandomForestClassifier model to the dataset, the following stats were generated. 
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/mlstatistics.png alt="mlstatistics" width="900" height="350"/>
 
-ML generated stats put into a barchart, to predict the numerical columns which are the largest factors in default probability
+Below is an example of the representations which can be created after the model has been used. The diagram is a barchart which visualises a prediction on the numerical columns which are the largest factors in default probability
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/factorbarchart.png alt="factorbarchart" width="900" height="350"/>
 
 Averages for the whole dataset - after SMOTE has been applied
