@@ -192,6 +192,17 @@ Random forest can be used to classify digits. In the notebook example you can ch
 A confusion matrix was made from the above digit classification.
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/confusionmatrix.png alt="confusionmatrix" width="900" height="530"/>
 
+- **Tools & Techniques**
+  The main tools & Techniques utilised in this project include:
+  
+  [Jupyter notebooks](https://jupyter.org/) - used to download the project template
+  
+  [sklearn](https://scikit-learn.org/stable/) - used for the Machine Learning algorithm applied to the dataset and some visualisations
+  
+  [MatPlotLib](https://matplotlib.org/) - used for visualizations
+
+  [Numpy](https://numpy.org/) - used for number generation for visualisations.
+
 
 ### Professional Projects
 - [Project1](#)
