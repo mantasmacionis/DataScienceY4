@@ -10,7 +10,6 @@
 - [Background](#background)
 - [Content](#content)
   - [Data Sets](#data-sets)
-  - [Tools/Techniques](#tools-and-techniques)
   - [Technologies](#technologies)
   - [Personal/College Projects](#personalcollege-projects)  
   - [Professional Projects](#professional-projects)
@@ -26,11 +25,6 @@ I am a 4th Year software development student, looking to grow my skills related 
 
 ### Data Sets
 - [Loan Default Dataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default)
-- [Example Data Set2](#)
-
-### Tools/Techniques
-- [Tool/Technique 1](#)
-- [Tool/Technique 2](#)
 
 ### Technologies
 - Programming: [Python](https://www.python.org/), [Jupyter Notebooks](https://jupyter.org/)
