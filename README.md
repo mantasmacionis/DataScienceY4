@@ -197,7 +197,6 @@ A confusion matrix was made from the above digit classification.
 This jupyter notebook project has been a great introduction to random forest trees, it has demonstrated how random forests are fast during both the training and prediction process, parallelization opportunities available with the use of random forest trees and the effective visualisations and predictions which can be created by utilising random forest.  
 
 - **Tools & Techniques**
-  
   The main tools & Techniques utilised in this project include:
   
   [Jupyter notebooks](https://jupyter.org/) - used to download the project template
