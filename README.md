@@ -12,7 +12,15 @@
   - [Data Sets](#data-sets)
   - [Technologies](#technologies)
   - [Personal/College Projects](#personalcollege-projects)  
+    - [Project 1 - Loan Default dataset](#project-1-loan-default-dataset)
+      - [Data Preprocessing](#data-preprocessing)
+      - [Feature Engineering](#feature-engineering)
+      - [Data Visualizations](#data-visualizations)
+      - [Exploratory Data Analysis](#exploratory-data-analysis)
   - [Professional Projects](#professional-projects)
+    - [Project 2 - Random Forests](#project-2-random-forests)
+      - [Preparation](#preparation)
+      - [Visualizations](#visualisations)
 - [Opportunities & Challenges](#opportunities-and-challenges)
 
 ## Introduction
