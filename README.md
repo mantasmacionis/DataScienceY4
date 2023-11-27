@@ -192,6 +192,9 @@ Random forest can be used to classify digits. In the notebook example you can ch
 A confusion matrix was made from the above digit classification.
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/confusionmatrix.png alt="confusionmatrix" width="900" height="530"/>
 
+### Summary
+This jupyter notebook project has been a great introduction to random forest trees, it has demonstrated how random forests are fast during both the training and prediction process, parallelization opportunities available with the use of random forest trees and the effective visualisations and predictions which can be created by utilising random forest.  
+
 - **Tools & Techniques**
   The main tools & Techniques utilised in this project include:
   
