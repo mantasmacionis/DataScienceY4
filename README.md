@@ -111,6 +111,9 @@ Income Box Plot for the dataset
 Education Level Bar Chart
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/educationlevelbarchart.png alt="educationlevelbarchart" width="900" height="350"/>
 
+Heatmap of Age vs Default
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/heatmapdefaultage.png alt="heatmapdefaultage" width="900" height="350"/>
+
 Average loan size taken by defaulters versus non defaulters
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/loanamountstaken.png alt="loanamountstaken" width="900" height="350"/>
 
