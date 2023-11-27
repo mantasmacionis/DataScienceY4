@@ -133,17 +133,13 @@ Averages for the whole dataset - after SMOTE has been applied
   
   [Jupyter notebooks](https://jupyter.org/) - used to create functionality
   
-  <a href="https://jupyter.org/" target="_blank">Jupyter notebooks</a> - used to create functionality
-
-  [Jupyter notebooks](https://jupyter.org/)(:onclick="window.open(this.href, '_blank'); return false;")
+  [Pandas Library](https://pandas.pydata.org/) - used for data pre processing and for chart creation
   
-  Pandas Library - used for data pre processing and for chart creation
+  [sklearn](https://scikit-learn.org/stable/) - used for the Machine Learning algorithm applied to the dataset
   
-  sklearn - used for the Machine Learning algorithm applied to the dataset
+  [MatPlotLib](https://matplotlib.org/) - used for visualizations
   
-  MatPlotLib - used for visualizations
-  
-  SMOTE - used for balancing of the dataset
+  [SMOTE](https://imbalanced-learn.org/stable/over_sampling.html) - used for balancing of the dataset
   
 
 ### Professional Projects
