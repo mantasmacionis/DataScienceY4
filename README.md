@@ -160,6 +160,13 @@ Averages for the whole dataset - after SMOTE has been applied
 #### Project 2 - Random Forests
 - **Data Sources** - [JupyterNotebook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) , This project is based on the linked Jupyter notebook.
 
+**Notebook Details:**
+- This notebook features a walkthrough on Decision Trees and random forests.
+- Decision tree topics include: The creation of a Decision tree, Overfitting visualisations.
+- Random Forest tree topics include: Bagging classifiers, Random Forest Regression, Classifying digits with random forest and the confusion matrix.
+
+
+
 ### Professional Projects
 - [Project1](#)
 
