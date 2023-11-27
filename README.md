@@ -33,9 +33,9 @@ This portfolio will present technologies and tools which I am familiar with and 
 - [Tool/Technique 2](#)
 
 ### Technologies
-- Programming: Python, Jupyter Notebooks
-- Data Manipulation: Pandas, MatPlotlib, Seaborn
-- Machine Learning: sklearn, SMOTE
+- Programming: [Python](https://www.python.org/), [Jupyter Notebooks](https://jupyter.org/)
+- Data Manipulation: [Pandas](https://pandas.pydata.org/), [MatPlotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+- Machine Learning: [sklearn](https://scikit-learn.org/stable/), [SMOTE](https://imbalanced-learn.org/stable/over_sampling.html)
 
 ### Personal/College Projects
 #### Project 1 - Loan Default dataset
