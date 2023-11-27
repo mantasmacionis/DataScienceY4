@@ -62,7 +62,7 @@ This portfolio will present technologies and tools which I am familiar with and 
   
 ## Data Preprocessing 
 - The following section covers pre processing the data to prepare it for future sections, which will include data visualisations and exploratory data analysis.
-- Upon initial inspection this dataset appeared to be high quality with no obious issues such as missing data or odd variables. 
+- Upon initial inspection this dataset appeared to be high quality with no obvious issues such as missing data or odd variables. 
 - To confirm whether the data needed pre processing the panda's library was utilised.
 - The data was checked for key aspects such as Null or void values and duplicate values. 
 
