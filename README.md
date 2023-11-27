@@ -88,7 +88,9 @@ SMOTE was chosen to create synthetic data which would have a default value of 1(
 
 ## Data Visualizations
   
-This section includes visualisations created after the dataset has been balanced by using SMOTE.
+- The following section covers data visualisations, visualisations created are done after the dataset has been balanced
+- Different visualisation styles such as box plots and bar charts are utlised.
+- 
 Age Distribution of individuals included in the dataset
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/agedistribution.png alt="agedistribution" width="900" height="350"/>
 
