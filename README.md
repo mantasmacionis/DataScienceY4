@@ -67,10 +67,10 @@ I am a 4th Year software development student, looking to grow my skills related 
 - The data was checked for key aspects such as Null or void values and duplicate values. 
 
 Below are the first five rows of the dataset, giving a quick preview and showing their initial state before any changes are made.
-<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/initialhead.png alt="df.headinitial" width="900" height="250"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/initialhead.png alt="df.headinitial" width="900" height="225"/>
 
 Below are the last five rows of the dataset, showing the total size of the dataset and final figures.
-<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/initialtail.png alt="df.tailinitial" width="900" height="250"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/initialtail.png alt="df.tailinitial" width="900" height="225"/>
 
 Below is the df.isna() command being utilised to confirm that the database contains no Null or void values
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png alt="df.isna()" width="800" height="300"/>
