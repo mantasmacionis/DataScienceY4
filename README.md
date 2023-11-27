@@ -17,10 +17,10 @@
 - [Opportunities & Challenges](#opportunities-and-challenges)
 
 ## Introduction
-4th Year software development student working on developing skills related to AI, machine learning, and Data Science.
+The primary objective of this portfolio is to offer a comprehensive showcase of my proficiency in the field of Data Science & Machine Learning. Through a selection of projects, my aim is to demonstrate my experience with tools and technologies used in this field. Each project has been a valuable learning opportunity and has given me insight into the scenarios in which Data Science & Machine learning can be applicable. 
 
 ## Background
-This portfolio will present technologies and tools which I am familiar with and what I am currently working on learning. To showcase areas which I am best suited for in a professional project development environment.
+I am a 4th Year software development student, looking to grow my skills related to the fields of Data Science & Machine learning. This portfolio will feature demonstrations of my projects which show first hand experience in key topics such as Data pre processing , Data Visualisations, Feature engineering and Exploratory data analysis. Below this section are the datasets, technologies and projects I have worked on.     
 
 ## Content
 
