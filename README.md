@@ -28,7 +28,7 @@ I am a 4th Year software development student, looking to grow my skills related 
 
 ### Technologies
 - Programming: [Python](https://www.python.org/), [Jupyter Notebooks](https://jupyter.org/)
-- Data Manipulation: [Pandas](https://pandas.pydata.org/), [MatPlotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+- Data Manipulation: [Pandas](https://pandas.pydata.org/), [MatPlotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/),[Numpy](https://numpy.org/)
 - Machine Learning: [sklearn](https://scikit-learn.org/stable/), [SMOTE](https://imbalanced-learn.org/stable/over_sampling.html)
 
 ### Personal/College Projects
