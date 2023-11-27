@@ -150,10 +150,18 @@ Averages for the whole dataset - after SMOTE has been applied
 - **Sources**
   - Kaggle Dataset used: https://www.kaggle.com/datasets/nikhil1e9/loan-default
   
-  
+  ## Opportunities & Challenges
+  ### Opportunities
+  - This project has introduced me to Feature engineering.
+  - In this project I have been able to practice and improve upon visualisation techniques.
+  - Through comparison of visualisations and stats I have confirmed I accurately utilised a machine learning model.
+  ### Challenges
+  - Accurate visualisations were hard to create as values in columns varied heavily.
+  - Dealing with incompatability, a model working only on integers and how to work around this problem.
+  - Choosing the right style of visualisation for a particular column comparison.
+ 
   
 - **Tools & Techniques**
-- 
   The main tools & Techniques utilised in this project include:
   
   [Jupyter notebooks](https://jupyter.org/) - used to create functionality
@@ -201,7 +209,7 @@ Random forest can be used to classify digits. In the notebook example you can ch
 A confusion matrix was made from the above digit classification.
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/confusionmatrix.png alt="confusionmatrix" width="900" height="530"/>
 
-### Summary
+### Summary/Outcomes
 This jupyter notebook project has been a great introduction to random forest trees, it has demonstrated how random forests are fast during both the training and prediction process, parallelization opportunities available with the use of random forest trees and the effective visualisations and predictions which can be created by utilising random forest.  
 
 - **Tools & Techniques**
@@ -216,8 +224,6 @@ This jupyter notebook project has been a great introduction to random forest tre
   [Numpy](https://numpy.org/) - used for number generation for visualisations.
 
 
-### Professional Projects
+## Professional Projects
 - [Project1](#)
 
-## Opportunities & Challenges
-The opportunities and challenges which I have encountered during my time learning and using technologies I am now familiar with, how my experiences have affected my learning trajectory/growth, and understanding of different topics.
