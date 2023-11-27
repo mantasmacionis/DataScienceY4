@@ -157,7 +157,7 @@ Averages for the whole dataset - after SMOTE has been applied
   
   [SMOTE](https://imbalanced-learn.org/stable/over_sampling.html) - used for balancing of the dataset
 
-#### Project 2 - Random Forests
+### Project 2 - Random Forests
 - **Data Sources** - [JupyterNotebook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb) , This project is based on the linked Jupyter notebook.
 
 **Notebook Details:**
@@ -165,6 +165,14 @@ Averages for the whole dataset - after SMOTE has been applied
 - Decision tree topics include: The creation of a Decision tree, Overfitting visualisations.
 - Random Forest tree topics include: Bagging classifiers, Random Forest Regression, Classifying digits with random forest and the confusion matrix.
 
+#### Preparation 
+- to get this project running, the initial import statement must be changed to specify which version of the seaborn whitegrid will be used.
+
+Below is the import edit I made.
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/torun.png alt="torun" width="900" height="225"/>
+
+A helper file named helper05_08 must be downloaded for later code to display.
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/helper.png alt="helper" width="900" height="225"/>
 
 
 ### Professional Projects
