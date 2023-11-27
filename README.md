@@ -184,13 +184,13 @@ The visualisation below shows building of a shape classifier. The state can be c
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/shapedclassifier.png alt="shapedclassifier" width="900" height="450"/>
 
 Below is a visualisation of Random forest regression, in this example the random state is changed to 10 and there are 300 datapoints.
-<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/forestregressor.png alt="randomforestregressor" width="900" height="500"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/forestregressor.png alt="randomforestregressor" width="900" height="530"/>
 
 Random forest can be used to classify digits. In the notebook example you can choose the number of digits you would like considered for evaluation. In this case I have chosen 32 resulting in the below output.
-<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/randomforestclassifydigits.png alt="classifydigit" width="900" height="500"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/randomforestclassifydigits.png alt="classifydigit" width="900" height="530"/>
 
 A confusion matrix was made from the above digit classification.
-<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/confusionmatrix.png alt="confusionmatrix" width="900" height="500"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/confusionmatrix.png alt="confusionmatrix" width="900" height="530"/>
 
 
 ### Professional Projects
