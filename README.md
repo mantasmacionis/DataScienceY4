@@ -80,7 +80,7 @@ Below is the df.dropduplicates() command being used to drop any duplicate rows(D
 
 
 ### Feature Engineering
-- The following section will cover the process of transforming the data, By balacning the dataset.
+- The following section will cover the process of transforming the data, By balancing the dataset.
 - This will allow for more representative data visualisations.
 - Data balancing is also crucial for the last topic covered in this project - exploratory data analysis, using a machine learning algorithm.
 
