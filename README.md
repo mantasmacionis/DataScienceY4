@@ -172,7 +172,8 @@ Below is the import edit I made.
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/torun.png alt="torun" width="900" height="225"/>
 
 A helper file named helper05_08 must be downloaded for later code to display.
-<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/helper.png alt="helper" width="900" height="175"/>
+<img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/helper.png alt="helper" width="900" height="125"/>
+
 
 
 ### Professional Projects
