@@ -70,8 +70,14 @@ Below is the df.isna() command being utilised to confirm that the database conta
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/nullorvoidcheck.png alt="df.isna()" width="800" height="300"/>
 Below is the df.dropduplicates() command being used to drop any duplicate rows(Dataset remains the same as there are no duplicates)
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/dropduplicates.png alt="df.dropduplicates()" width="800" height="300"/>
-After doing this basic preprocessing, the dataset needed to be balanced, the main factor in this dataset is whether or not a loan was defaulted on
-(0 is non defaulted 1 is defaulted) The initial imbalance is represented in this bar chart diagram
+
+### Feature Engineering
+- The following section will cover the process of transforming the data, By balacning the dataset.
+- This will allow for more representative data visualisations.
+- Data balancing is also crucial for the last topic covered in this project - exploratory data analysis, using a machine learning algorithm.
+
+After the dataset was checked for Null/void values and duplicate values. The dataset needed to be balanced. 
+The initial imbalance is represented in the diagram below. 0 represents a non default, 1 represents a default.
 <img src=https://github.com/mantasmacionis/DataScienceY4/blob/main/AdvancedPortfolioDraft/initialimbalance.png alt="initialimbalance" width="800" height="350"/>
 SMOTE was chosen to create synthetic data which would have a default value of 1(defaulted on a loan), SMOTE works on numerical values only so a conversion was done to temporarily turn certain columns into number classificiation.
 
