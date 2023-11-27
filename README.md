@@ -145,6 +145,7 @@ Averages for the whole dataset - after SMOTE has been applied
   
   
 - **Tools & Techniques**
+- 
   The main tools & Techniques utilised in this project include:
   
   [Jupyter notebooks](https://jupyter.org/) - used to create functionality
